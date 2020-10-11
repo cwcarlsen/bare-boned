@@ -1,0 +1,16 @@
+{
+  "name": "bare-boned",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "browserslist": "last 2 versions",
+  "devDependencies": {
+    "autoprefixer": "^9.8.6",
+    "express": "^4.17.1",
+    "node-sass-middleware": "^0.11.0",
+    "nodemon": "^2.0.4",
+    "postcss-middleware": "^1.1.4"
+  }
+}
